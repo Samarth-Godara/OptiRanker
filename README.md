@@ -5,17 +5,18 @@ OptiRanker is a powerful and user-friendly software that helps you rank options 
 
 # Download OptiRanker
 ## Download for Windows : 
+### (For the first time usage select "More Info" option then select "Run Anyway" button)
 https://drive.google.com/file/d/1HrUqkOspoYhhRgCT3bky0SAQJDSIhEkg/view?usp=sharing 
-
+   
 ## Download for Ubuntu : 
 https://drive.google.com/file/d/1rd3BNpVK_oFnSo8fi2A_UYNFna9o44qJ/view?usp=sharing
-
+   
 # Resources
 ## User Manual : 
 https://drive.google.com/file/d/13z7dzxn9uguQ0Ot4BwWHCuOlXKrdhGrd/view?usp=sharing
-
+   
 ## Tutorial Videos :
-
+   
 # Application Areas and Case Studies
 
 Genotype Selection for Crop Breeding: OptiRanker can help in selecting the best genotypes based on multiple traits such as yield, resistance to pests, and tolerance to environmental stress.

@@ -18,7 +18,7 @@ OptiRanker is a powerful and user-friendly software that helps you rank options 
 
 
 
-## Tutorial Videos :
+## Tutorial Video : https://drive.google.com/file/d/1sus_IP1P_52twLxqm5grAcNmBfseNnnI/view?usp=sharing
 
 
 

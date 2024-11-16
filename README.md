@@ -4,12 +4,17 @@ About OptiRanker
 OptiRanker is a powerful and user-friendly software that helps you rank options based on multiple criteria using the TOPSIS method. Whether you are evaluating projects, selecting suppliers, or making other decisions, OptiRanker provides accurate and reliable results quickly and efficiently.
 
 # Download OptiRanker
-## Download for Windows
-## Download for Ubuntu
+## Download for Windows : 
+https://drive.google.com/file/d/1HrUqkOspoYhhRgCT3bky0SAQJDSIhEkg/view?usp=sharing 
+
+## Download for Ubuntu : 
+https://drive.google.com/file/d/1rd3BNpVK_oFnSo8fi2A_UYNFna9o44qJ/view?usp=sharing
 
 # Resources
-## User Manual
-## Tutorial Videos
+## User Manual : 
+https://drive.google.com/file/d/13z7dzxn9uguQ0Ot4BwWHCuOlXKrdhGrd/view?usp=sharing
+
+## Tutorial Videos :
 
 # Application Areas and Case Studies
 

@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OptiRanker - Software</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: black;
+            background-color: lightgreen; /* Dark Blue */
+        }
+        header {
+            background-color: darkgreen; /* Medium Blue */
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 4.5em;
+        }
+        header p {
+            font-size: 2.2em;
+            margin: 10px 0 0;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 30px;
+        }
+        section h2 {
+            color: darkgreen; /* Light Blue */
+            border-bottom: 2px solid #93c5fd;
+            padding-bottom: 5px;
+        }
+        a {
+            color: #93c5fd;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .download-links, .resources {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        .download-links a, .resources a {
+            background-color: darkgreen;
+            padding: 10px 15px;
+            border-radius: 5px;
+            text-align: center;
+            color: white;
+            flex: 1;
+            max-width: 200px;
+            text-decoration: none;
+            transition: background-color 0.3s;
+        }
+        .download-links a:hover, .resources a:hover {
+            background-color: #1e3a8a;
+        }
+        footer {
+            background-color: darkgreen;
+            padding: 10px;
+            text-align: center;
+            font-size: 0.9em;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>OptiRanker</h1>
+        <p>The Ultimate Software for Multi-Criteria Decision Making Using TOPSIS</p>
+    </header>
+    <main>
+        <section>
+            <h2>About OptiRanker</h2>
+            <p>OptiRanker is a powerful and user-friendly software that helps you rank options based on multiple criteria using the TOPSIS method. Whether you are evaluating projects, selecting suppliers, or making other decisions, OptiRanker provides accurate and reliable results quickly and efficiently.</p>
+        </section>
+
+        <img src="optiranker_screenshot.png" alt="OptiRanker Logo" style="display: block; margin: 0 auto;">
+
+        <section>
+            <h2>Download OptiRanker</h2>
+            <div class="download-links">
+                <a href="downloads/OptiRanker-Windows.exe" download>Download for Windows</a>
+                <a href="downloads/OptiRanker-Ubuntu.tar.gz" download>Download for Ubuntu</a>
+            </div>
+        </section>
+        <section>
+            <h2>Resources</h2>
+            <div class="resources">
+                <a href="docs/User-Manual.pdf" download>User Manual</a>
+                <a href="https://www.youtube.com/tutorials/OptiRanker" target="_blank">Tutorial Videos</a>
+            </div>
+        </section>
+
+<section>
+    <h2>Application Areas and Case Studies</h2>
+    <ul>
+        <li><strong>Genotype Selection for Crop Breeding</strong>: OptiRanker can help in selecting the best genotypes based on multiple traits such as yield, resistance to pests, and tolerance to environmental stress.</li>
+        <li><strong>Crop Selection for Optimal Yield</strong>: The software can rank different crops based on various factors such as soil type, climate, and water availability, aiding in the decision-making process for optimal crop selection.</li>
+        <li><strong>Precision Agriculture</strong>: By evaluating various criteria like soil health, water usage, and environmental factors, OptiRanker supports precision agriculture to make informed decisions on crop management.</li>
+        <li><strong>Pest and Disease Management</strong>: OptiRanker can assist in identifying the best pest or disease management strategies based on their effectiveness, cost, and environmental impact.</li>
+        <li><strong>Agroecological Zone Identification</strong>: The software helps in identifying suitable agroecological zones for specific crops based on environmental and climatic conditions, ensuring better crop adaptation and improved yields.</li>
+        <li><strong>Case Study 1 - Genotype Selection in Rice</strong>: In a case study, OptiRanker was used to evaluate multiple rice genotypes based on their drought resistance, yield, and disease resistance. This allowed for the identification of the most suitable genotype for drought-prone areas.</li>
+        <li><strong>Case Study 2 - Crop Selection for Climate Change Adaptation</strong>: In areas affected by climate change, OptiRanker helped farmers select crops based on climate resilience, soil fertility, and water requirements, ensuring better crop productivity and sustainability.</li>
+        <li><strong>Case Study 3 - Multi-Criteria Decision Making for Fertilizer Use</strong>: OptiRanker has been used to rank different fertilizer options based on their effectiveness, cost, environmental impact, and ease of use, providing farmers with optimal choices for improving crop growth.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>OptiRanker Screenshots</h2>
+    <div style="display: flex; justify-content: space-between; gap: 20px;">
+        <div style="text-align: center;">
+            <img src="optiranker_screenshot_1.png" alt="Input Example: .xlsx file" style="width: 60%; height: auto;">
+            <p>Input Example: .xlsx file</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="optiranker_screenshot_2.png" alt="OptiRanker Screenshot" style="width: 150%; height: auto;">
+            <p>OptiRanker Interface</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="optiranker_screenshot_3.png" alt="Output Example: .xlsx file" style="width: 60%; height: auto;">
+            <p>Output Example: .xlsx file</p>
+        </div>
+    </div>
+</section>
+
+<section>
+    <h2>Input Format and Output Structure</h2>
+    <p>
+        To use OptiRanker, the input file should be in <strong>Excel</strong> (.xlsx) format. The file should consist of several columns, where the first column contains the options (e.g., crops, genotypes, or any decision alternatives), and the subsequent columns represent the criteria that will be used to rank those options.
+    </p>
+    <p>
+        <strong>Input File Structure:</strong><br>
+        - The <strong>first column</strong> must contain the options (e.g., crops, genotypes, etc.).<br>
+        - Each <strong>subsequent column</strong> represents a different criterion used for evaluation. For example, in crop selection, the columns could represent criteria like yield, pest resistance, water usage, or disease tolerance.<br>
+        - Ensure that each row corresponds to a specific option, with the values under each criterion representing how that option performs with respect to the criteria.
+    </p>
+    <p>
+        Example of input format:
+    </p>
+    <pre>
+Option     | Yield | Water Usage | Pest Resistance | Disease Tolerance
+----------------------------------------------------------------------
+Crop A     | 80    | 200         | 70              | 65
+Crop B     | 90    | 150         | 60              | 75
+Crop C     | 85    | 180         | 80              | 70
+    </pre>
+    <p>
+        After processing the input data with the assigned weights and the positive/negative impact of each criterion (sign), the software will generate an output file. The output will include an additional column that shows the <strong>rank</strong> of each option based on the TOPSIS method.
+    </p>
+    <p>
+        <strong>Output File Structure:</strong><br>
+        - The output will have the same columns as the input file, but with an additional <strong>rank</strong> column at the end.<br>
+        - This <strong>rank column</strong> represents the position of each option in the ranking, based on how well it performs relative to all other options, considering the weights and the positive/negative impact of the criteria.
+    </p>
+    <p>
+        Example of output format:
+    </p>
+    <pre>
+Option     | Yield | Water Usage | Pest Resistance | Disease Tolerance | Rank
+-------------------------------------------------------------------------
+Crop A     | 80    | 200         | 70              | 65                 | 2
+Crop B     | 90    | 150         | 60              | 75                 | 1
+Crop C     | 85    | 180         | 80              | 70                 | 3
+    </pre>
+    <p>
+        In this example, Crop B is ranked the highest (Rank 1) because it performed the best according to the weighted criteria and the positive/negative impacts defined for each criterion. The rank is computed using the TOPSIS method, which evaluates the proximity of each option to the ideal positive and negative solutions.
+    </p>
+</section>
+
+    </main>
+    <footer>
+        <p>Developed by ICAR-IASRI, New Delhi | Contact us at <a href="mailto:samarth.godara@gmail.com">samarth.godara@gmail.com</a></p>
+    </footer>
+</body>
+</html>

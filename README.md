@@ -7,19 +7,14 @@ OptiRanker is a powerful and user-friendly software that helps you rank options 
 ## Download for Windows :  https://drive.google.com/file/d/1anZVzmkjHHPT7mtRIV0ogNuGHDex3sKN/view?usp=sharing
 ### (For the first time usage select "More Info" option then select "Run Anyway" button)
 
-
-
 ## Download for Ubuntu : https://drive.google.com/file/d/1q4GPpz3NzhwZmUkUxPoi4m2OtVkenj7F/view?usp=sharing
-
-
 
 # Resources
 ## User Manual : https://drive.google.com/file/d/1YjtNghBxfn67Bty2ZEATPm1uCDzGiYIc/view?usp=sharing
 
-
 ## Tutorial Video : https://drive.google.com/file/d/1o-7X3Sy66Sytd2bFHGR4pZLh5dn5ajZq/view?usp=sharing
 
-
+# Website link : https://samarth-godara.github.io/OptiRanker/
 
 # Application Areas and Case Studies
 

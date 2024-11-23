@@ -4,12 +4,13 @@ About OptiRanker
 OptiRanker is a powerful and user-friendly software that helps you rank options based on multiple criteria using the TOPSIS method. Whether you are evaluating projects, selecting suppliers, or making other decisions, OptiRanker provides accurate and reliable results quickly and efficiently.
 # Website link : https://samarth-godara.github.io/OptiRanker/
 # Download OptiRanker
-## Download for Windows :  https://drive.google.com/file/d/1anZVzmkjHHPT7mtRIV0ogNuGHDex3sKN/view?usp=sharing
+## Download for Windows :  https://drive.google.com/file/d/1IJnV8jDKeTRxiXjmUYBUyXZgj-Vc5T3S/view?usp=drive_link
 ### (For the first time usage select "More Info" option then select "Run Anyway" button)
-## Download for Ubuntu : https://drive.google.com/file/d/1q4GPpz3NzhwZmUkUxPoi4m2OtVkenj7F/view?usp=sharing
+## Download for Ubuntu : https://drive.google.com/file/d/178cKbJJPExmdQi7gMkFRX4vGMKeADLMw/view?usp=drive_link
 # Resources
-## User Manual : https://drive.google.com/file/d/1YjtNghBxfn67Bty2ZEATPm1uCDzGiYIc/view?usp=sharing
-## Tutorial Video : https://drive.google.com/file/d/1_1cG27V1bQyvigncDxTSBzW4Z5OVnVDR/view?usp=drive_link
+## User Manual : https://drive.google.com/file/d/1fFXg9Is3Xb9rVXpOjkjL7ohjrB-0QoVU/view?usp=drive_link
+## Information Tutorial Video : 
+## Software Demonstration Tutorial Video : 
 # Application Areas and Case Studies
 
 Genotype Selection for Crop Breeding: OptiRanker can help in selecting the best genotypes based on multiple traits such as yield, resistance to pests, and tolerance to environmental stress.

@@ -42,4 +42,4 @@ To use OptiRanker, the input file should be in Excel (.xlsx) format. The file sh
 - The output will have the same columns as the input file, but with an additional rank column at the end.
 - This rank column represents the position of each option in the ranking, based on how well it performs relative to all other options, considering the weights and the positive/negative impact of the criteria.
 
-## Developed by ICAR-IASRI, New Delhi | Contact us at samarth.godara@gmail.com
+## Developed by Dr. Samarth Godara, ICAR-IASRI, New Delhi | Contact us at samarth.godara@gmail.com
